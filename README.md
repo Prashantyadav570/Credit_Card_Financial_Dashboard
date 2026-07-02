@@ -180,11 +180,11 @@ This dashboard helps business leaders make informed decisions such as:
 
 # 📸 Dashboard Preview
 
--> Customer Dashboard
-<img width="700" height="300" alt="Screenshot 2026-07-02 090307" src="https://github.com/user-attachments/assets/e4bfdfc8-0ea5-4b93-8454-249974ebdae3" />
+* Customer Dashboard
+<img width="500" height="300" alt="Screenshot 2026-07-02 090307" src="https://github.com/user-attachments/assets/e4bfdfc8-0ea5-4b93-8454-249974ebdae3" />
 
--> Transaction Dashboard
-<img width="700" height="300" alt="Screenshot 2026-07-02 090227" src="https://github.com/user-attachments/assets/e5a2f567-aaf4-472b-8c30-bf2bbafee8e3" />
+* Transaction Dashboard
+<img width="500" height="300" alt="Screenshot 2026-07-02 090227" src="https://github.com/user-attachments/assets/e5a2f567-aaf4-472b-8c30-bf2bbafee8e3" />
 
 ---
 
@@ -199,7 +199,7 @@ This dashboard helps business leaders make informed decisions such as:
 * Business Intelligence
 * Data Visualization
 
-**LinkedIn:** linkedin.com/in/prashanttyadav
+**LinkedIn:** [linkedin.com/in/prashanttyadav](https://www.linkedin.com/in/prashanttyadav/)
 
 **GitHub:** prashantyadav2458@gmail.com
 

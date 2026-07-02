@@ -180,25 +180,13 @@ This dashboard helps business leaders make informed decisions such as:
 
 # 📸 Dashboard Preview
 
-Customer Dashboard
-<img width="900" height="500" alt="Screenshot 2026-07-02 090307" src="https://github.com/user-attachments/assets/e4bfdfc8-0ea5-4b93-8454-249974ebdae3" />
+-> Customer Dashboard
+<img width="700" height="300" alt="Screenshot 2026-07-02 090307" src="https://github.com/user-attachments/assets/e4bfdfc8-0ea5-4b93-8454-249974ebdae3" />
 
-
----
-
-# 🚀 Conclusion
-
-This project demonstrates how raw financial transaction data can be transformed into an executive-level Business Intelligence solution.
-
-By integrating SQL for data preparation and Power BI for visualization, the dashboard enables stakeholders to monitor business performance, identify customer trends, optimize marketing strategies, improve financial planning, and make data-driven decisions with confidence.
+-> Transaction Dashboard
+<img width="700" height="300" alt="Screenshot 2026-07-02 090227" src="https://github.com/user-attachments/assets/e5a2f567-aaf4-472b-8c30-bf2bbafee8e3" />
 
 ---
-
-## 👨‍💻 Author
-
-**Prashant Yadav**
-
-Aspiring Data Analyst
 
 ### Skills
 
@@ -211,7 +199,7 @@ Aspiring Data Analyst
 * Business Intelligence
 * Data Visualization
 
-**LinkedIn:** *(Add your LinkedIn profile)*
+**LinkedIn:** linkedin.com/in/prashanttyadav
 
-**GitHub:** *(Add your GitHub profile)*
+**GitHub:** prashantyadav2458@gmail.com
 

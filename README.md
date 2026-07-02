@@ -1,7 +1,7 @@
-# Credit_Card_Financial_Dashboard
-# 💳 Credit Card Financial Analysis Dashboard | Excel & Power BI 
+## Credit_Card_Financial_Dashboard
+### 💳 Credit Card Financial Analysis Dashboard | Excel & Power BI 
 
-## 📌 Project Summary
+### 📌 Project Summary
 
 This project is an end-to-end **Business Intelligence Dashboard** developed using **Exce** and  **Power BI** to analyze credit card customer behavior and financial performance.
 
@@ -9,7 +9,7 @@ The dashboard converts raw transaction and customer data into meaningful busines
 
 ---
 
-# 🎯 Business Problem
+### 🎯 Business Problem
 
 Financial institutions generate millions of credit card transactions every month. However, without proper analytics, it becomes difficult to answer questions such as:
 
@@ -26,7 +26,7 @@ This dashboard provides answers to these business questions through interactive 
 
 ---
 
-# 🎯 Project Objectives
+### 🎯 Project Objectives
 
 * Analyze customer demographics and spending behavior.
 * Measure overall business performance using KPIs.
@@ -37,7 +37,7 @@ This dashboard provides answers to these business questions through interactive 
 
 ---
 
-# 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 * Excel / CSV
 * Power BI
@@ -46,11 +46,11 @@ This dashboard provides answers to these business questions through interactive 
 
 ---
 
-# 📊 Dashboard Overview
+### 📊 Dashboard Overview
 
 The project consists of two interactive dashboards.
 
-## 1️⃣ Customer Dashboard
+### 1️⃣ Customer Dashboard
 
 Provides customer-centric business insights including:
 
@@ -67,7 +67,7 @@ Provides customer-centric business insights including:
 
 ---
 
-## 2️⃣ Transaction Dashboard
+### 2️⃣ Transaction Dashboard
 
 Provides transaction-level analysis including:
 
@@ -82,7 +82,7 @@ Provides transaction-level analysis including:
 
 ---
 
-# 📈 Key Performance Indicators (KPIs)
+### 📈 Key Performance Indicators (KPIs)
 
 The dashboard tracks the following business KPIs:
 
@@ -97,7 +97,7 @@ These KPIs provide management with a quick overview of business performance.
 
 ---
 
-# 📊 Business Insights Generated
+### 📊 Business Insights Generated
 
 The dashboard enables stakeholders to generate insights such as:
 
@@ -178,7 +178,7 @@ This dashboard helps business leaders make informed decisions such as:
 
 ---
 
-# 📸 Dashboard Preview
+### 📸 Dashboard Preview
 
 * Customer Dashboard
 <img width="500" height="300" alt="Screenshot 2026-07-02 090307" src="https://github.com/user-attachments/assets/e4bfdfc8-0ea5-4b93-8454-249974ebdae3" />

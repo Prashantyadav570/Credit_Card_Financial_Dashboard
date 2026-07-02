@@ -180,8 +180,8 @@ This dashboard helps business leaders make informed decisions such as:
 
 # 📸 Dashboard Preview
 
-Add screenshots of both dashboards here.
-<img width="1341" height="753" alt="Screenshot 2026-07-02 090307" src="https://github.com/user-attachments/assets/e4bfdfc8-0ea5-4b93-8454-249974ebdae3" />
+Customer Dashboard
+<img width="900" height="500" alt="Screenshot 2026-07-02 090307" src="https://github.com/user-attachments/assets/e4bfdfc8-0ea5-4b93-8454-249974ebdae3" />
 
 
 ---
